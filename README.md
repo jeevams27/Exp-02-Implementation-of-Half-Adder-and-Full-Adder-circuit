@@ -38,8 +38,8 @@ If the output is 1, then the led glows.
 ~~~
 Program to design a half adder and full adder circuit and verify its truth table in quartus
 using Verilog programming.
-Developed by: H.Syed Abdul Wasih
-RegisterNumber: 212221240057
+Developed by: MS.JEEVA
+RegisterNumber: 212221230040
 ~~~
 
 ### Half adder program:
